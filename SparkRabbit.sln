@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SparkRabbit", "SparkRabbit\SparkRabbit.vcxproj", "{BB348BED-D672-4234-A407-D7804940D2AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{3427569A-14C1-4E4E-AEF4-A97EF5B868A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB348BED-D672-4234-A407-D7804940D2AD}.Debug|x64.ActiveCfg = Debug|x64
+		{BB348BED-D672-4234-A407-D7804940D2AD}.Debug|x64.Build.0 = Debug|x64
+		{BB348BED-D672-4234-A407-D7804940D2AD}.Release|x64.ActiveCfg = Release|x64
+		{BB348BED-D672-4234-A407-D7804940D2AD}.Release|x64.Build.0 = Release|x64
+		{3427569A-14C1-4E4E-AEF4-A97EF5B868A2}.Debug|x64.ActiveCfg = Debug|x64
+		{3427569A-14C1-4E4E-AEF4-A97EF5B868A2}.Debug|x64.Build.0 = Debug|x64
+		{3427569A-14C1-4E4E-AEF4-A97EF5B868A2}.Release|x64.ActiveCfg = Release|x64
+		{3427569A-14C1-4E4E-AEF4-A97EF5B868A2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2811B17-E826-437B-A750-75EC2E6BD5CF}
+	EndGlobalSection
+EndGlobal
